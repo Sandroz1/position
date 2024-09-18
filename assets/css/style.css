@@ -67,7 +67,7 @@ body {
   max-width: 200px;
   position: absolute;
   left: 82%;
-  bottom: 15%;
+  bottom: 20%;
   z-index: 3;
 }
 
@@ -248,7 +248,7 @@ body {
   color: #fff;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1650px) {
   .footer {
     height: 30rem;
   }
